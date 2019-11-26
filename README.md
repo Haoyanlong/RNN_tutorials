@@ -1,2 +1,3 @@
-# RNN_tutorials
-The project is to implement some RNN models based on PyTorch! 
+#### rnn_pytorch_tutorials
+Contains some rnn instances in pytorch by Jupyter-notebook!
+
